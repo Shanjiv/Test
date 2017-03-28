@@ -1,4 +1,5 @@
 var React = require('react');
+var soap = require('soap');
 
 var Evergreen = React.createClass({
 
